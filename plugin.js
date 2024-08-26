@@ -509,16 +509,16 @@ module.exports = plugin(
       extend: {
         colors: {
           primary: {
-            DEFAULT: "#F34213",
+            DEFAULT: "#DA1A6A",
           },
           secondary: {
-            DEFAULT: "#13C296",
+            DEFAULT: "#20a4f3",
           },
           stroke: {
             DEFAULT: "#DFE4EA",
           },
           dark: {
-            DEFAULT: "#111928",
+            DEFAULT: "#001F38",
             2: "#1F2A37",
             3: "#374151",
             4: "#4B5563",
